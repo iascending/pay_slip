@@ -1,0 +1,8 @@
+There are 2 assumptions:
+
+1. All employees use the same "tax table" all the time.
+
+2. The gross income was calculated based on how many days passed before he started in a month.
+   e.g. an employee with annual salary of 72000 will get an gross income of 2000 on a 30-day
+   month if he started 21st of month. His income tax, net income, super will be adjusted accordingly.
+   For above example, income tax: 415, net income: 1585, and super:200

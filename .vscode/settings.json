@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/liqiang1/Desktop/Projects/python-learning/myob-execise/bin/python3.6",
+    "python.venvPath": "/Users/liqiang1/Desktop/Projects/python-learning/myob-execise",
+    "python.linting.pylintArgs": [ "--generate-members" ]
+}
